@@ -1,1 +1,2 @@
-# Quadro_simulink_model
+# Mathematical modeling of Quadrotor
+
